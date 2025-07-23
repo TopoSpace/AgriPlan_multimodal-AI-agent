@@ -10,7 +10,6 @@ build/
 .vscode/
 *.sqlite3
 *.db
-*.png
 *.jpg
 *.jpeg
 *.webp

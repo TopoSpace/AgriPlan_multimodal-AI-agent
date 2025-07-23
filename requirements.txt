@@ -1,0 +1,25 @@
+# Core UI & App
+streamlit
+streamlit-folium
+folium
+
+# HTTP & Parsing
+requests
+PyYAML
+
+# LLM / VLM Integration
+openai>=1.0.0
+tenacity
+
+# Image Handling
+pillow
+
+# Vector Store & Retrieval (reserved knowledge engine)
+sentence-transformers
+faiss-cpu
+langchain
+torch          # required by sentence‑transformers
+PyPDF2         # optional PDF loader support
+
+# Misc
+tqdm           # progress bar utility (optional helper)
