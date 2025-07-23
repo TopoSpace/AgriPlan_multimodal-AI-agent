@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+*.log
+.vscode/
+*.sqlite3
+*.db
+*.png
+*.jpg
+*.jpeg
+*.webp
+.DS_Store

@@ -1,0 +1,13 @@
+qweather:
+  apikey:
+  api_host:
+
+vlm::
+  apikey:
+  api_host:
+
+llm::
+  apikey:
+  api_host:
+  model_chat:
+  model_reason:
