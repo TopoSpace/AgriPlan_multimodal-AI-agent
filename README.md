@@ -29,9 +29,9 @@ AgriPlan‑Agent leverages a hierarchical **context injection framework** to ena
 > **All contextual information, after being processed through structured parsing and fusion, is uniformly injected into the LLM reasoning process to achieve semantic consistency and multi-source information alignment.**
 
 ---
-### 2. 🧠 MCP: Model Context Protocol（模型上下文协议）
+### 2. 🧠 ACP: Agent Context Protocol（智能体上下文协议）
 
-To ensure consistent model behavior across different stages of the agent (strategic planning, daily task generation, real-time Q&A), we designed an internal **Model Context Protocol (MCP)** that specifies:
+To ensure consistent agent/model behavior across different stages of the agent (strategic planning, daily task generation, real-time Q&A), we designed an internal **Agent Context Protocol (ACP)** that specifies:
 
 - 🔖 Prompt format conventions  
 
