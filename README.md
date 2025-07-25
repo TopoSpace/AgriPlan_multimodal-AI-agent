@@ -100,9 +100,9 @@ By combining:
 
 ---
 
-## 🧪 Field Testing: Tobacco as a Complex Planning Benchmark（烟草种植场景实测验证）
+## 🧪 Field Testing: Multiple crops as the Complex Planning Benchmark（种植场景实测验证）
 
-To benchmark AgriPlan‑Agent’s capabilities, we selected **tobacco** — a crop known for its long growth cycle, multi-stage interventions, and sensitivity to environmental factors — as our primary testing scenario.
+To benchmark AgriPlan‑Agent’s capabilities, we selected **multiple crops** with diverse characteristics (like long growth cycles, multi-stage interventions, and environmental sensitivity) as our primary testing scenarios.
 
 We collaborated with senior agronomists to evaluate the agent’s output, including:
 
